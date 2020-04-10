@@ -1,2 +1,2 @@
-test ansible_host=10.227.115.252 ansible_user=ubuntu
+test ansible_host=10.227.115.125 ansible_user=ubuntu
 
